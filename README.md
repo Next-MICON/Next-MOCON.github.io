@@ -1,4 +1,7 @@
-# Next-MICON Homepage
+# Welcome to Next-MICON Homepage
 
-## products
-- [RelayComputer](./RelayComputer.md)
+# Products
+
+## [RelayComputer](./RelayComputer.md)
+
+- Computer without semiconductor
