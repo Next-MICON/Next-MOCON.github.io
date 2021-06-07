@@ -2,6 +2,6 @@
 
 # Products
 
-## [RelayComputer](./RelayComputer.md)
+## [RelayComputer](./RelayComputer/RelayComputer.md)
 
 - Computer without semiconductor
