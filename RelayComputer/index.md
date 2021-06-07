@@ -6,4 +6,9 @@ A Computer made with no semiconductor but relay. In order to be able to solve a 
 
 ![](arch.drawio.svg)
 
-![](opecode.drawio.svg)
+| Function | OP  | OPR1       | OPR2          |
+| -------- | --- | ---------- | ------------- |
+| NOP      | 00  | -          | -             |
+| MOV      | 01  | SourceAddr | DirectionAddr |
+| LOAD     | 10  | Immidiate  | DirectionAddr |
+| JMPIF    | 11  | Condition  | JumpTo        |
