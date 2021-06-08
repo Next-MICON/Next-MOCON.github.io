@@ -12,3 +12,5 @@ A Computer made with no semiconductor but relay. In order to be able to solve a 
 | MOV      | 01  | SourceAddr | DirectionAddr |
 | LOAD     | 10  | Immidiate  | DirectionAddr |
 | JMPIF    | 11  | Condition  | JumpTo        |
+
+![](timing.drawio.svg)
