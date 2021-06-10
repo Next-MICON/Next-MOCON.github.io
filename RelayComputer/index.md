@@ -19,3 +19,4 @@ A Computer made with no semiconductor but relay. In order to be able to solve a 
 
 ![](timing.drawio.svg)
 
+![](controller.drawio.svg)
