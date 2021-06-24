@@ -16,7 +16,11 @@
 
 電磁石で動くスイッチです．
 
+## 簡単なCPU
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">カウントアップができました！実質CPU <a href="https://t.co/3P3C7U6cvV">pic.twitter.com/3P3C7U6cvV</a></p>&mdash; Next-MICON (@Next_MICON) <a href="https://twitter.com/Next_MICON/status/1407661031996878850?ref_src=twsrc%5Etfw">June 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![](increment.drawio.svg)
 
 ## アーキテクチャ
 
