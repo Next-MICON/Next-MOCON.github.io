@@ -1,0 +1,64 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="126px" height="101px" viewBox="-0.5 -0.5 126 101" content="&lt;mxfile&gt;&lt;diagram id=&quot;8VbZcmpRKB5eRyG9PbX7&quot; name=&quot;ページ1&quot;&gt;5Zldk5owFIZ/Te6BCMilWG1vOtMZL3qdkSiZDYQJcdX++h4kCAFW2Rbq2nUcJxzOScjznnwhwsvk9FWSLP4uIsqRY0UnhL8gx3GwD7+F4awNvjbsJYtKk10bNuwXLY2uNh5YRPPSZJUmJQRXLMuN4K1IU7pVhiORUhzN2J3gZqMZ2dOOYbMlvGv9ySIVl1aMLau+8Y2yfaybnnlzHZKQylu75jGJxLFhwiuEl1IIVZaS05Lygl3FpYxbv3H3+mSSpmpIAMZlxCvhB907/WDqXHVXikMa0SLAQjg8xkzRTUa2xd0jyAu2WCUcrmwo7hjnS8GFhOtUpOAURkyCCkykF5MsCIS6VSoVPb356PYVCCQSFQlV8gwuJyMZqhTSQI+1ILatXeKGFl6VBzoH9td6a0pQ0KD6oXn3mUEAZCO9z2siOBUOTQf30LG6cGYjwKlgNOmsAhSEKAzRykcLjGA0QCFYoxB3wEGXlUkoV1K80FZO9aQZ4WxfUNwCIgr2sADIYNQu9I2ERRF/SxIzyaVQRItiTSJI0BVk1iOIM4Yg/ojpSvKsnFF37FTQMoRADl5fPuMgm88NZJ7XRdaTwiMAmz8psMAE1jPoJwIWPCkw23pQiuG+SRImRgeFgS4sZpfC5asL9qeZLf27s6U30Wzpuk+wuJtbn3+4uLtPsPXBD9v6uGOutFPReVzujLmsTkRn9rjcGXMNnYrOw3Knmu1v0kmjRXG4r9e4BhFzwSpjadQ55t8l0eir29PXyiYphxXx1ay+D4Bu4Ydg0HC9LzFBBy2CuTjILdUxTuNw36qmdeZwW9UoIvdUdaoBiOTccMsKh3zww7rGCwcolPXVMl9pDlO+Z6f00caF+7BZw7M/1bhwe1Pt3ePCuz28RhoX3rTjYsCLu5vKf3StA+umSEO1blXjD9P6TwSZ/eeC2PY4irTrmVCSIWe5p5bE6l953i1Jqx57OkmGHCCfWZLWfFOl4N8qgt2RFIHL+t+l0r3+iw6vfgM=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="27.5" y="-17.5" width="60" height="115" fill="none" stroke="#000000" transform="rotate(270,57.5,40)" pointer-events="all"/>
+        <ellipse cx="20" cy="40" rx="20" ry="5" fill="#ffffff" stroke="#000000" transform="rotate(270,20,40)" pointer-events="all"/>
+        <rect x="15" y="80" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 90px; margin-left: 16px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                電磁石
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="35" y="94" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    電磁石
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="85" cy="58" rx="2" ry="2" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <ellipse cx="95" cy="22" rx="2" ry="2" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <ellipse cx="105" cy="58" rx="2" ry="2" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <rect x="65" y="80" width="60" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 90px; margin-left: 66px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                スイッチ
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="95" y="94" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    スイッチ
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="25" cy="40" rx="20" ry="5" fill="#ffffff" stroke="#000000" transform="rotate(270,25,40)" pointer-events="all"/>
+        <ellipse cx="30" cy="40" rx="20" ry="5" fill="#ffffff" stroke="#000000" transform="rotate(270,30,40)" pointer-events="all"/>
+        <ellipse cx="35" cy="40" rx="20" ry="5" fill="#ffffff" stroke="#000000" transform="rotate(270,35,40)" pointer-events="all"/>
+        <ellipse cx="40" cy="40" rx="20" ry="5" fill="#ffffff" stroke="#000000" transform="rotate(270,40,40)" pointer-events="all"/>
+        <ellipse cx="45" cy="40" rx="20" ry="5" fill="#ffffff" stroke="#000000" transform="rotate(270,45,40)" pointer-events="all"/>
+        <path d="M 10 80 L 10 40 L 15 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="50" cy="40" rx="20" ry="5" fill="#ffffff" stroke="#000000" transform="rotate(270,50,40)" pointer-events="all"/>
+        <path d="M 50 40 L 60 40 L 60 80" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 85 80 L 85 60" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 105 80 L 105 60" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 95 20 L 95 0" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 85 55 L 95 25" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>

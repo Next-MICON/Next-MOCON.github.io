@@ -1,12 +1,27 @@
-# RelayComputer / リレーコンピュータ
+# リレーコンピュータ
 
+[Maker Faire Tokyo](https://makezine.jp/event/mft2021/) (2021/10/2-3 @東京ビックサイト) で展示予定
 
-
-A Computer made with no semiconductor but relay. In order to be able to solve a wider variety of problems faster, this CPU is based on modular architecture. 
-
+[製作進捗](./progress/)
 
 
 ![](RelayAdder.jpeg)
+
+
+トランジスタを使わずにリレーで計算をするコンピュータです．
+
+## リレーとは？
+
+![](relay.drawio.svg)
+
+電磁石で動くスイッチです．
+
+
+
+## アーキテクチャ
+
+1. 簡潔な命令セットでクロック周波数を高速化
+2. 計算モジュールを交換することでさまざまな計算を高速に実行可能
 
 ![](arch.drawio.svg)
 
@@ -17,6 +32,4 @@ A Computer made with no semiconductor but relay. In order to be able to solve a 
 | MOV      | 10  | SourceAddr | DirectionAddr |
 | LOAD     | 11  | Immidiate  | DirectionAddr |
 
-![](timing.drawio.svg)
 
-![](controller.drawio.svg)
