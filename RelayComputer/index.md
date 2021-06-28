@@ -2,21 +2,20 @@
 
 [Maker Faire Tokyo](https://makezine.jp/event/mft2021/) (2021/10/2-3 @東京ビックサイト) で展示予定
 
-[製作進捗](./progress/)
-
-
 ![](RelayAdder.jpeg)
 
+コンピュータといえば半導体という印象が強いですが，実はトランジスタが登場する何十年も前からコンピュータは存在しました．リレーコンピュータもそんな前半導体時代のコンピュータのひとつです．
 
-トランジスタを使わずにリレーで計算をするコンピュータです．
+今回のリレーコンピュータプロジェクトの目標は，昔の再現ではなく，現代的な視点からの再構築です．半導体時代にあえてリレーという制約条件を課したとき，どんなコンピュータができるのか．
 
 ## リレーとは？
 
-![](relay.drawio.svg)
-
 電磁石で動くスイッチです．
 
-## 簡単なCPU
+![](relay.drawio.svg)
+
+
+## 順序回路
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">カウントアップができました！実質CPU <a href="https://t.co/3P3C7U6cvV">pic.twitter.com/3P3C7U6cvV</a></p>&mdash; Next-MICON (@Next_MICON) <a href="https://twitter.com/Next_MICON/status/1407661031996878850?ref_src=twsrc%5Etfw">June 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
