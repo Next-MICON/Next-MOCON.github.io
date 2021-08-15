@@ -32,14 +32,3 @@
 | JMPIF    | 01  | Condition  | JumpTo        |
 | MOV      | 10  | SourceAddr | DirectionAddr |
 | LOAD     | 11  | Immidiate  | DirectionAddr |
-
-
-## まとめ
-- 教育用のリレーコンピュータ
-  - 
-- モジュラーアーキテクチャ
-  - 
-
-
-
-
