@@ -1,6 +1,6 @@
 # リレーコンピュータ
 
-![](RelayAdder.jpeg)
+![](./img/RelayAdder.jpeg)
 
 ![](./img/relay.jpg)
 
@@ -95,13 +95,13 @@
 
 メモリの入力に変更があると，それに応じて出力を変更します．
 
-![](img/arithmetic.drawio.svg)
+![](./img/arithmetic.drawio.svg)
 
 ### 6. そして次の命令へ
 
 ## アーキテクチャの特徴
 
-![](arch.drawio.svg)
+![](./img/arch.drawio.svg)
 
 | Function | OP  | OPR1       | OPR2          |
 | -------- | --- | ---------- | ------------- |
