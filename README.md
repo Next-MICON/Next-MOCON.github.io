@@ -2,8 +2,10 @@
 
 [Twitter](https://twitter.com/Next_MICON)
 
-# Products
+# Products and Researches
 
 ## [RelayComputer](./RelayComputer/index.md)
 
-- Computer without semiconductor
+- Computer without transistor
+
+## [XPUArchitecture](./XPUArchitecture/index.md)
