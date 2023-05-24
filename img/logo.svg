@@ -1,0 +1,25 @@
+<svg version="1.1"
+     baseProfile="full"
+     viewBox="0 0 1000 1000"
+     xmlns="http://www.w3.org/2000/svg"
+     >
+   <rect x="0" y="0" width="1000" height="1000" fill="#f3f4f7"/>
+   <path d="M 920 400 
+            V 200
+            a 100 100 0 0 0 -100 -100
+            H 180
+            a 100 100 0 0 0 -100 100
+            V 500
+            H 250
+            "  stroke-width="70" fill="none" stroke="#4285f4"/>
+   <path d="M 780 500 
+            H 920
+            V 800
+            a 100 100 0 0 1 -100 100
+            H 180
+            a 100 100 0 0 1 -100 -100
+            V 600
+            "  stroke-width="70" fill="none" stroke="#34a853"/>
+  <path d="M 720 500  L 220 200  V 800 Z" fill="#fbbc05" stroke="none"/>
+  <circle cx="720" cy="500" r="100" fill="#ea4335" stroke="none"/>
+</svg>
