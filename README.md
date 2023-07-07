@@ -8,6 +8,6 @@
 
 - Computer without transistor
 
-## [Next-MICON](./Next-MICON/index.md)
+<!-- ## [Next-MICON](./Next-MICON/index.md) -->
 
 ## [XPUArchitecture](./XPUArchitecture/index.md)
